@@ -63,3 +63,24 @@
 31. Deep Learning - ANN, CNN, RNN
 
 32. GAN and Autoencoders
+
+# **Some Projects made:**
+Certain Projects and analyses which helped me further understand the concepts were:
+
+1. SQL Query IMDB dataset analysis
+   
+2. Books Data Analysis using JSON data
+   
+3. Olympics Dataset Data Analysis
+   
+4. Mobile Application dataset data analysis
+   
+5. House Price Prediction using Linear Regression
+    
+6. Prediction of Engineering Graduate salary using SVR
+    
+7. Customer Segmentation using K means Clustering
+    
+8. Market Basket Analysis using Apriori Algorithm
+
+9. MNIST dataset analysis using ANN
