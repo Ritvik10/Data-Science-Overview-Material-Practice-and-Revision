@@ -1,4 +1,4 @@
-# Data-Science-Overview-Material-Practice-and-Revision
+# Data-Science-Overview-Summer Practice and Revision 
 # **Table of Contents**
 1. Introduction to statistics
 
