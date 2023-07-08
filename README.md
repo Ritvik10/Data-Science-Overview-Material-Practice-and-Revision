@@ -1,66 +1,65 @@
 # Data-Science-Overview-Material-Practice-and-Revision
-Table of Contents
+# **Table of Contents**
+1. Introduction to statistics
 
-Introduction to statistics
+2. Python and it's datatypes
 
-Python and it's datatypes
+3. Type casting variables, Garbage Collection, Comments
 
-Type casting variables, Garbage Collection, Comments
+4. Operators and Inputs
 
-Operators and Inputs
+5. Lists and arrays
 
-Lists and arrays
+6. String Methods and indexing and slicing
 
-String Methods and indexing and slicing
+7. Tuples and dictionaries
 
-Tuples and dictionaries
+8. Sets and Conditional statements
 
-Sets and Conditional statements
+9. Loops
 
-Loops
+10. Modules and Functions
 
-Modules and Functions
+11. Anonymous functions and error handling
 
-Anonymous functions and error handling
+12. Object Oriented Programming
 
-Object Oriented Programming
+13. Database System and MySQL operations
 
-Database System and MySQL operations
+14. Aggregate Functions and Joins
 
-Aggregate Functions and Joins
+15. Numpy + Searching, Sorting, Stacking
 
-Numpy + Searching, Sorting, Stacking
+16. Pandas
 
-Pandas
+17. Data visualization using Matplotlib and Seaborn
 
-Data visualization using Matplotlib and Seaborn
+18. Data Exploration, Cleaning, Manipulation, Analysis
 
-Data Exploration, Cleaning, Manipulation, Analysis
+19. Regular Expressions
 
-Regular Expressions
+20. Web Scraping
 
-Web Scraping
+21. Descriptive and Inferential Statistics
 
-Descriptive and Inferential Statistics
+22. Linear Regression
 
-Linear Regression
+23. Logistic Regression
 
-Logistic Regression
+24. K-Nearest Neighbours 
 
-K-Nearest Neighbours 
+25. Cross Validation Method
 
-Cross Validation Method
+26. Naive Bayes Classifier
 
-Naive Bayes Classifier
+27. SVM
 
-SVM
+28. Ensemble Learning - Decision Trees and Random Forest classifier and regressor
 
-Ensemble Learning - Decision Trees and Random Forest classifier and regressor
+29. K-Means Clustering
 
-K-Means Clustering
+30. Apriori Algorithm
 
-Apriori Algorithm
+31. Deep Learning - ANN, CNN, RNN
 
-Deep Learning - ANN, CNN, RNN
-
-GAN and Autoencoders
+32. GAN and Autoencoders
